@@ -1,0 +1,25 @@
+textarea {
+  background: transparent;
+}
+
+body {
+  font-family: "Ubuntu", sans-serif;
+  text-align: center;
+}
+
+.grey {
+  background-color: rgb(105, 105, 105);
+  color: aliceblue;
+}
+.green {
+  background-color: green;
+  color: white;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+.time-block {
+  padding: 3px;
+}
